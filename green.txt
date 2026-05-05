@@ -1,303 +1,379 @@
 Category: General Market/Macro
-Source Name: Government Sites (.gov)
-Description: Official government publications, statistics, and policy data from national government departments and agencies. Coverage varies by country but typically includes trade, economic, demographic, and regulatory data.
-
-Category: General Market/Macro
-Source Name: National Statistics Offices
-Description: Official national-level statistical data on population, economy, trade, and society, published by each country's dedicated government statistics agency (e.g. ONS, CBS, ABS).
-
-Category: General Market/Macro
-Source Name: UN Agencies
-Description: Data, reports, and policy guidance across development, health, trade, environment, and humanitarian issues from specialised United Nations bodies (e.g. UNICEF, UNCTAD, WHO, UNEP).
-
-Category: General Market/Macro
-Source Name: Central Banks
-Description: Monetary policy, interest rates, inflation, currency, and financial stability data published by national and regional central banking authorities (e.g. Reserve Bank of NZ, ECB, Federal Reserve).
-
-Category: General Market/Macro
-Source Name: IMF
-Description: Economic and financial data, forecasts, and analysis covering macroeconomic stability, fiscal policy, trade balances, and economic outlooks across member countries.
-
-Category: General Market/Macro
-Source Name: IHS Markit (S&P Global Market Intelligence)
-Description: Data, analysis, and forecasting across energy, financial services, transportation, commodities, and macroeconomic markets.
-
-Category: General Market/Macro
-Source Name: Google Trends
-Description: Real-time and historical search interest data by geography, time period, and topic, useful for tracking shifts in consumer interest and emerging trends.
-
-Category: Technology & Innovation
-Source Name: Gartner
-Description: Research and advisory covering IT strategy, technology market trends, and digital transformation across enterprise and consumer technology sectors.
-
-Category: Technology & Innovation
-Source Name: Forrester
-Description: Research and advisory focused on technology's impact on business strategy, marketing, and customer experience.
-
-Category: Technology & Innovation
-Source Name: IDC
-Description: Market intelligence, data, and advisory for the global technology and telecommunications industries, including forecasts and vendor analysis.
-
-Category: Technology & Innovation
-Source Name: Frost & Sullivan
-Description: Growth strategy consulting and market research across technology, healthcare, energy, and emerging industries worldwide.
-
-Category: Technology & Innovation
-Source Name: ABI Research
-Description: Technology market intelligence covering connected devices, wireless communications, semiconductors, and emerging tech trends.
-
-Category: Technology & Innovation
-Source Name: Omdia
-Description: Global technology analyst firm covering AI, cloud, connectivity, media, and enterprise technology markets. Part of Informa TechTarget.
-
-Category: Technology & Innovation
-Source Name: CCS Insight
-Description: Analyst firm specialising in consumer and enterprise technology research, including mobile, wearables, and connected devices.
-
-Category: Technology & Innovation
-Source Name: Canalys
-Description: Technology market analyst firm covering the channel and partner ecosystem, devices, cloud services, and cybersecurity.
-
-Category: Technology & Innovation
-Source Name: Strategy Analytics
-Description: Research and analysis of global technology markets, consumer electronics, automotive technology, and connected devices.
-
-Category: Technology & Innovation
-Source Name: 451 Research (S&P Global Market Intelligence)
-Description: Enterprise technology research covering cloud computing, AI, cybersecurity, and digital infrastructure for IT decision-makers and investors.
-
-Category: Strategy & Consulting
-Source Name: McKinsey & Company
-Description: Global management consulting firm publishing research on business strategy, industry economics, operations, and organisational performance.
-
-Category: Strategy & Consulting
-Source Name: BCG (Boston Consulting Group)
-Description: Strategy consulting firm publishing research on business transformation, competitive dynamics, economic trends, and sector strategy.
-
-Category: Strategy & Consulting
-Source Name: Bain & Company
-Description: Management consulting firm publishing research spanning strategy, private equity, consumer markets, and industry performance benchmarks.
-
-Category: Strategy & Consulting
-Source Name: Deloitte
-Description: Professional services firm publishing industry research, economic outlooks, and business insights across a broad range of sectors globally.
-
-Category: Strategy & Consulting
-Source Name: PwC
-Description: Global professional services firm publishing research on industry trends, economic outlooks, and business strategy across sectors.
-
-Category: Strategy & Consulting
-Source Name: EY (Ernst & Young)
-Description: Professional services firm publishing sector insights, economic analysis, and business transformation perspectives across industries.
-
-Category: Strategy & Consulting
-Source Name: KPMG
-Description: Professional services firm providing sector research, economic analysis, and regulatory and governance insights globally.
-
-Category: Strategy & Consulting
-Source Name: Accenture
-Description: Global consulting firm publishing research on technology adoption, industry disruption, AI, and digital business strategy.
-
-Category: Finance & Investment Research
-Source Name: S&P Global
-Description: Financial intelligence, credit ratings, market data, and analytics across capital markets, commodities, and industries worldwide.
-
-Category: Finance & Investment Research
-Source Name: Bloomberg Intelligence
-Description: In-depth sector research and data analytics embedded within Bloomberg Terminal, covering industries, companies, and global financial markets.
-
-Category: Finance & Investment Research
-Source Name: CB Insights
-Description: Business intelligence platform tracking startup ecosystems, venture capital activity, and emerging technology and industry trends.
-
-Category: Finance & Investment Research
-Source Name: Berenberg
-Description: European investment bank providing equity research with particular strength in European small and mid-cap company coverage across multiple sectors.
-
-Category: Finance & Investment Research
-Source Name: Raymond James
-Description: Investment banking firm with equity research covering approximately 1,200 companies across major North American industries, with a focus on small and mid-cap growth companies.
-
-Category: Finance & Investment Research
-Source Name: Baird
-Description: Employee-owned investment bank providing equity research and institutional brokerage, covering 700+ stocks globally across focused industry sectors.
-
-Category: Finance & Investment Research
-Source Name: Piper Sandler
-Description: Investment bank focused on M&A, capital markets, and securities research, with strong coverage across growth-oriented sectors including healthcare and technology.
-
-Category: Finance & Investment Research
-Source Name: Needham & Company
-Description: Investment bank providing in-depth equity research focused on growth companies, covering 450+ stocks across approximately 20 sectors.
-
-Category: Finance & Investment Research
-Source Name: Bernstein Research
-Description: Independent equity research firm known for rigorous, long-form analysis and investment recommendations across global sectors and large-cap companies.
-
-Category: Consumer
-Source Name: Nielsen
-Description: Audience measurement and consumer behaviour data across media, retail, and FMCG markets, covering reach, engagement, and purchasing trends.
-
-Category: Consumer
-Source Name: Ipsos
-Description: Survey-based market research covering public opinion, consumer behaviour, brand equity, and audience insights across global markets.
-
-Category: Consumer
-Source Name: GfK
-Description: Consumer data and market intelligence covering purchasing behaviour, digital trends, brand performance, and retail tracking across global markets.
-
-Category: Health
-Source Name: IQVIA
-Description: Data, analytics, and intelligence for the global healthcare and pharmaceutical industries, including clinical trial data, real-world evidence, and market access insights.
-
-Category: General Market/Macro
 Source Name: Statista
 Description: Insights and facts across 170 industries and 150+ countries.
+URL: https://www.statista.com
 
 Category: General Market/Macro
 Source Name: Euromonitor
 Description: A provider of strategic market research on thousands of products & services globally.
+URL: https://www.euromonitor.com
 
 Category: General Market/Macro
 Source Name: IBIS World
 Description: Industry research on thousands of industries worldwide.
+URL: https://www.ibisworld.com
 
 Category: General Market/Macro
 Source Name: World Bank Data
-Description: Global development data covering social development, agricultural, environment, education, infrastructure, gender, social protection and labour.
+Description: Global development data covering social development, agricultural, environment, education, infrastructure, gender, social protection, and labour.
+URL: https://data.worldbank.org
 
 Category: General Market/Macro
 Source Name: UN Statistics
-Description: Global centre for data on international trade, national accounts, energy, industry, environment, and demographic and social statistics gathered from national and international sources.
+Description: Global centre for data on international trade, national accounts, energy, industry, environment, and demographic and social statistics.
+URL: https://unstats.un.org
 
 Category: General Market/Macro
 Source Name: Global Edge
 Description: Interactive graphs and charts of economic, governmental, and financial data about countries across various classifications.
+URL: https://globaledge.msu.edu
 
 Category: General Market/Macro
 Source Name: Our World in Data
 Description: Data across health, food & agriculture, energy and environment, innovation and technological change, poverty, development, living and community wellbeing, and human rights.
+URL: https://ourworldindata.org
 
 Category: General Market/Macro
 Source Name: Santander Trade
 Description: Market trend analysis, currency analysis, and overseas business insights.
+URL: https://santandertrade.com
 
 Category: General Market/Macro
 Source Name: OECD Data
 Description: Agriculture, development, economy, energy, environment, finance, health, government, technology, and society data.
+URL: https://data.oecd.org
 
 Category: General Market/Macro
 Source Name: UN Human Development Data Centre
 Description: Demography, gender, human security, inequality, mobility, trade, and employment data.
+URL: https://hdr.undp.org/data-center
 
 Category: General Market/Macro
 Source Name: World Population Review
 Description: Overview of global populations.
+URL: https://worldpopulationreview.com
 
 Category: General Market/Macro
 Source Name: Legatum Prosperity Index
 Description: Insights across safety and security, personal freedom, governance, social capital, economic quality, living conditions, health, education, and national environment.
+URL: https://www.prosperity.com
 
 Category: General Market/Macro
 Source Name: English Proficiency Index
-Description: —
+Description: Country-level rankings of English language proficiency compiled from adult test-takers worldwide.
+URL: https://www.ef.com/wwen/epi
 
 Category: General Market/Macro
 Source Name: Hofstede Insights
 Description: Compares countries across 6 cultural values: Power Distance, Individualism, Masculinity, Uncertainty Avoidance, Long Term Orientation, and Indulgence.
+URL: https://www.hofstede-insights.com
+
+Category: General Market/Macro
+Source Name: IMF
+Description: Economic and financial data, forecasts, and analysis covering macroeconomic stability, fiscal policy, trade balances, and economic outlooks across member countries.
+URL: https://www.imf.org
+
+Category: General Market/Macro
+Source Name: IHS Markit (S&P Global Market Intelligence)
+Description: Data, analysis, and forecasting across energy, financial services, transportation, commodities, and macroeconomic markets.
+URL: https://www.spglobal.com/marketintelligence
+
+Category: General Market/Macro
+Source Name: Google Trends
+Description: Real-time and historical search interest data by geography, time period, and topic, useful for tracking shifts in consumer interest and emerging demand signals.
+URL: https://trends.google.com
+
+Category: General Market/Macro
+Source Name: Government Sites (.gov)
+Description: Official government publications, statistics, and policy data from national government departments and agencies. Coverage varies by country but typically includes trade, economic, demographic, and regulatory data.
+URL: Country-specific (e.g. https://www.usa.gov | https://www.gov.uk | https://www.govt.nz)
+
+Category: General Market/Macro
+Source Name: National Statistics Offices
+Description: Official national-level statistical data on population, economy, trade, and society published by each country's dedicated government statistics agency (e.g. ONS, CBS, Stats NZ).
+URL: Country-specific (e.g. https://www.ons.gov.uk | https://www.stats.govt.nz | https://www.abs.gov.au)
+
+Category: General Market/Macro
+Source Name: UN Agencies
+Description: Data, reports, and policy guidance across development, health, trade, environment, and humanitarian issues from specialised United Nations bodies (e.g. UNICEF, UNCTAD, WHO, UNEP).
+URL: https://www.un.org/en/about-us/un-system
+
+Category: General Market/Macro
+Source Name: Central Banks
+Description: Monetary policy, interest rates, inflation, currency, and financial stability data published by national and regional central banking authorities.
+URL: Country-specific (e.g. https://www.rbnz.govt.nz | https://www.ecb.europa.eu | https://www.federalreserve.gov)
 
 Category: Tariffs
 Source Name: Market Access Map
 Description: Customs tariffs, tariff rate quotas, trade remedies, regulatory requirements, and preferential regimes applicable to your product.
+URL: https://www.macmap.org
 
 Category: Tariffs
 Source Name: MFAT Tariff Finder
 Description: Helps goods exporters and importers maximise benefits from New Zealand's Free Trade Agreements and compare tariffs in more than 140 international markets.
+URL: https://www.tariff-finder.govt.nz
 
 Category: Trade
 Source Name: UN Comtrade Database
 Description: Free access to detailed global trade data.
+URL: https://comtradeplus.un.org
 
 Category: Trade
 Source Name: OEC
 Description: Trade data, products by country, and country profiles.
+URL: https://oec.world
 
 Category: Trade
 Source Name: ITC Trade Map
 Description: Provides tables, graphs, and maps with indicators on export performance, international demand, alternative markets, and competition.
+URL: https://www.trademap.org
 
 Category: Agriculture
 Source Name: FAOSTAT
 Description: Food and Agriculture Organisation of the United Nations data covering crops and livestock, climate change, population and employment, forestry, food security, and macroeconomic indicators.
+URL: https://www.fao.org/faostat
 
 Category: Sustainability
-Source Name: Sustainability Index (UN)
+Source Name: SDG Index (UN Sustainable Development Goals)
 Description: Assesses where each country stands with regard to achieving the Sustainable Development Goals.
+URL: https://dashboards.sdgindex.org
 
 Category: Sustainability
 Source Name: Environmental Performance Index
 Description: Data-driven summary of the state of sustainability worldwide, ranking 180 countries on environmental health and ecosystem vitality across 32 indicators and 11 issue categories.
+URL: https://epi.yale.edu
 
 Category: Sustainability
-Source Name: Minority Group Index
-Description: Ranking highlighting countries most at risk of genocide and mass killings.
+Source Name: Minority Group Index (Peoples Under Threat)
+Description: Annual index by Minority Rights Group International ranking countries most at risk of genocide, mass killing, or systematic violent repression.
+URL: https://minorityrights.org/peoples-under-threat
 
 Category: Health
 Source Name: Global Healthcare Expenditure Data
-Description: Data on healthcare expenditure including current health care expenditure by age, government financing arrangements, and immunizations.
+Description: Data on healthcare expenditure including current health care expenditure by age, government financing arrangements, and immunisations.
+URL: https://apps.who.int/nha/database
 
 Category: Health
 Source Name: World Health Organisation
-Description: Health data across the world.
+Description: Health data and statistics across the world covering disease, mortality, health systems, and global health trends.
+URL: https://www.who.int
 
 Category: Health
 Source Name: Global Health Data Exchange
-Description: Comprehensive catalogue of surveys, censuses, vital statistics, and other health-related data.
+Description: Comprehensive catalogue of surveys, censuses, vital statistics, and other health-related data from around the world.
+URL: https://ghdx.healthdata.org
+
+Category: Health
+Source Name: IQVIA
+Description: Data, analytics, and intelligence for the global healthcare and pharmaceutical industries, including clinical trial data, real-world evidence, and market access insights.
+URL: https://www.iqvia.com
 
 Category: Business Infrastructure
 Source Name: Robinson Country Intelligence Index
-Description: Overview of governance, economics, operations, and society.
+Description: Overview of governance, economics, operations, and society across 195 countries using 379 variables.
+URL: https://rcii.gsu.edu
 
 Category: Business Infrastructure
 Source Name: Freedom House
 Description: Rates people's access to political rights and civil liberties in 210 countries and territories, covering individual freedoms from voting rights to freedom of expression.
+URL: https://freedomhouse.org
 
 Category: Business Infrastructure
 Source Name: Cisco Digital Readiness Index
-Description: Overview of basic needs, government and business investment, ease of doing business, human capital, startup environment, technology adoption, and technology infrastructure.
+Description: Overview of basic needs, government and business investment, ease of doing business, human capital, startup environment, technology adoption, and technology infrastructure across 146 countries.
+URL: https://www.cisco.com/c/en/us/about/csr/research-resources/digital-readiness.html
 
 Category: Business Infrastructure
 Source Name: Credendo Country Risk
 Description: Immediate risk assessment for any country or continent.
+URL: https://www.credendo.com
 
 Category: Business Infrastructure
 Source Name: Vision of Humanity
 Description: A composite index measuring the peacefulness of countries, terrorism, and ecological threats.
+URL: https://www.visionofhumanity.org
 
 Category: Business Infrastructure
 Source Name: Atlas of Economic Complexity
 Description: Explore global trade flows across markets, track dynamics over time, and discover new growth opportunities for every country.
+URL: https://atlas.cid.harvard.edu
+
+Category: Technology & Innovation
+Source Name: Gartner
+Description: Research and advisory covering IT strategy, technology market trends, and digital transformation across enterprise and consumer technology sectors.
+URL: https://www.gartner.com
+
+Category: Technology & Innovation
+Source Name: Forrester
+Description: Research and advisory focused on technology's impact on business strategy, marketing, and customer experience.
+URL: https://www.forrester.com
+
+Category: Technology & Innovation
+Source Name: IDC
+Description: Market intelligence, data, and advisory for the global technology and telecommunications industries, including forecasts and vendor analysis.
+URL: https://www.idc.com
+
+Category: Technology & Innovation
+Source Name: Frost & Sullivan
+Description: Growth strategy consulting and market research across technology, healthcare, energy, and emerging industries worldwide.
+URL: https://www.frost.com
+
+Category: Technology & Innovation
+Source Name: ABI Research
+Description: Technology market intelligence covering connected devices, wireless communications, semiconductors, and emerging tech trends.
+URL: https://www.abiresearch.com
+
+Category: Technology & Innovation
+Source Name: Omdia
+Description: Global technology analyst firm covering AI, cloud, connectivity, media, and enterprise technology markets. Part of Informa TechTarget.
+URL: https://omdia.tech.informa.com
+
+Category: Technology & Innovation
+Source Name: CCS Insight
+Description: Analyst firm specialising in consumer and enterprise technology research, including mobile, wearables, and connected devices.
+URL: https://www.ccsinsight.com
+
+Category: Technology & Innovation
+Source Name: Canalys
+Description: Technology market analyst firm covering the channel and partner ecosystem, devices, cloud services, and cybersecurity.
+URL: https://www.canalys.com
+
+Category: Technology & Innovation
+Source Name: Strategy Analytics
+Description: Research and analysis of global technology markets, consumer electronics, automotive technology, and connected devices.
+URL: https://www.strategyanalytics.com
+
+Category: Technology & Innovation
+Source Name: 451 Research (S&P Global Market Intelligence)
+Description: Enterprise technology research covering cloud computing, AI, cybersecurity, and digital infrastructure for IT decision-makers and investors.
+URL: https://451research.com
+
+Category: Strategy & Consulting
+Source Name: McKinsey & Company
+Description: Global management consulting firm publishing research on business strategy, industry economics, operations, and organisational performance.
+URL: https://www.mckinsey.com
+
+Category: Strategy & Consulting
+Source Name: BCG (Boston Consulting Group)
+Description: Strategy consulting firm publishing research on business transformation, competitive dynamics, economic trends, and sector strategy.
+URL: https://www.bcg.com
+
+Category: Strategy & Consulting
+Source Name: Bain & Company
+Description: Management consulting firm publishing research spanning strategy, private equity, consumer markets, and industry performance benchmarks.
+URL: https://www.bain.com
+
+Category: Strategy & Consulting
+Source Name: Deloitte
+Description: Professional services firm publishing industry research, economic outlooks, and business insights across a broad range of sectors globally.
+URL: https://www2.deloitte.com
+
+Category: Strategy & Consulting
+Source Name: PwC
+Description: Global professional services firm publishing research on industry trends, economic outlooks, and business strategy across sectors.
+URL: https://www.pwc.com
+
+Category: Strategy & Consulting
+Source Name: EY (Ernst & Young)
+Description: Professional services firm publishing sector insights, economic analysis, and business transformation perspectives across industries.
+URL: https://www.ey.com
+
+Category: Strategy & Consulting
+Source Name: KPMG
+Description: Professional services firm providing sector research, economic analysis, and regulatory and governance insights globally.
+URL: https://kpmg.com
+
+Category: Strategy & Consulting
+Source Name: Accenture
+Description: Global consulting firm publishing research on technology adoption, industry disruption, AI, and digital business strategy.
+URL: https://www.accenture.com
+
+Category: Finance & Investment Research
+Source Name: S&P Global
+Description: Financial intelligence, credit ratings, market data, and analytics across capital markets, commodities, and industries worldwide.
+URL: https://www.spglobal.com
+
+Category: Finance & Investment Research
+Source Name: Bloomberg Intelligence
+Description: In-depth sector research and data analytics covering industries, companies, and global financial markets within the Bloomberg Terminal.
+URL: https://www.bloomberg.com/professional/solution/bloomberg-intelligence
+
+Category: Finance & Investment Research
+Source Name: CB Insights
+Description: Business intelligence platform tracking startup ecosystems, venture capital activity, and emerging technology and industry trends.
+URL: https://www.cbinsights.com
+
+Category: Finance & Investment Research
+Source Name: Berenberg
+Description: European investment bank providing equity research with particular strength in European small and mid-cap company coverage across multiple sectors.
+URL: https://www.berenberg.com
+
+Category: Finance & Investment Research
+Source Name: Raymond James
+Description: Investment banking firm with equity research covering approximately 1,200 companies across major North American industries, with a focus on small and mid-cap growth companies.
+URL: https://www.raymondjames.com
+
+Category: Finance & Investment Research
+Source Name: Baird
+Description: Employee-owned investment bank providing equity research and institutional brokerage, covering 700+ stocks globally across focused industry sectors.
+URL: https://www.rwbaird.com
+
+Category: Finance & Investment Research
+Source Name: Piper Sandler
+Description: Investment bank focused on M&A, capital markets, and securities research, with strong coverage across growth-oriented sectors including healthcare and technology.
+URL: https://www.pipersandler.com
+
+Category: Finance & Investment Research
+Source Name: Needham & Company
+Description: Investment bank providing in-depth equity research focused on growth companies, covering 450+ stocks across approximately 20 sectors.
+URL: https://www.needhamco.com
+
+Category: Finance & Investment Research
+Source Name: Bernstein Research
+Description: Independent equity research firm known for rigorous, long-form analysis and investment recommendations across global sectors and large-cap companies.
+URL: https://www.bernstein.com
 
 Category: FMCG Products
 Source Name: Mintel
 Description: Covers 38,000 new product launches a month across 86 global markets, with images and detailed product information across a wide array of categories.
+URL: https://www.mintel.com
 
 Category: Company
 Source Name: Capital IQ
 Description: Deep industry data, public and private company details, supply chain intelligence, real-time market prices, expert opinions, and forecasts.
+URL: https://www.capitaliq.spglobal.com
 
 Category: Construction
-Source Name: BCI
-Description: Building and construction industry data for Australia & Pacific.
+Source Name: BCI Asia
+Description: Building and construction project intelligence across the Asia Pacific region, including project leads, market data, and industry insights.
+URL: https://www.bciasia.com
 
 Category: Online Performance
 Source Name: SimilarWeb
 Description: Online traffic data providing an unbiased view of real-world web and app performance.
+URL: https://www.similarweb.com
 
 Category: Consumer
-Source Name: Global Web Index
-Description: Insightful consumer data across 47 markets.
+Source Name: Global Web Index (GWI)
+Description: Insightful consumer data across 47 markets covering digital behaviour, media consumption, and purchase intent.
+URL: https://www.gwi.com
+
+Category: Consumer
+Source Name: Nielsen
+Description: Audience measurement and consumer behaviour data across media, retail, and FMCG markets, covering reach, engagement, and purchasing trends.
+URL: https://www.nielsen.com
+
+Category: Consumer
+Source Name: Ipsos
+Description: Survey-based market research covering public opinion, consumer behaviour, brand equity, and audience insights across global markets.
+URL: https://www.ipsos.com
+
+Category: Consumer
+Source Name: GfK
+Description: Consumer data and market intelligence covering purchasing behaviour, digital trends, brand performance, and retail tracking across global markets.
+URL: https://www.gfk.com
 
 Category: Energy & Commodities
 Source Name: Wood Mackenzie
 Description: Research and analysis covering energy transition, renewables, oil and gas, power markets, and natural resource commodities globally.
+URL: https://www.woodmac.com
