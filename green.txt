@@ -1,0 +1,266 @@
+  Government sites (.gov), World Bank, IMF, OECD, National statistics offices, UN agencies, Central banks, Gartner, Forrester, IDC, Frost & Sullivan, ABI Research, Euromonitor International, McKinsey, BCG, Bain, Deloitte, PwC, EY, KPMG, Accenture, IHS Markit, S&P Global, Omdia, Nielsen, Ipsos, Kantar, GfK, Wood Mackenzie, CCS Insight, Canalys, Strategy Analytics, IQVIA, CB Insights, 451 Research, Bloomberg Intelligence, Berenberg, Raymond James, Baird, Piper Sandler, Needham, Bernstein Research, Google Trends
+ 
+Topic
+	
+Source
+	
+Description
+
+
+General Market/Macro
+	
+Statista
+	
+Insights and facts across 170 industries and 150+ countries.
+
+
+General Market/Macro
+	
+Euromonitor
+	
+A provider of strategic market research on thousands of products & services globally.
+
+
+General Market/Macro
+	
+IBIS World
+	
+Industry research on thousands of industries worldwide.
+
+
+General Market/Macro
+	
+World Bank Data
+	
+Global development data i.e. Social development, agricultural, environment, education, infrastructure, gender, social protection and labour.
+
+
+General Market/Macro
+	
+UN Statistics
+	
+Provides a global centre for data on international trade, national accounts, energy, industry, environment, and demographic and social statistics gathered from national and international sources.
+
+
+General Market/Macro
+	
+Global Edge
+	
+interactive graphs and charts of economic, governmental, and financial data about the countries in each classification.
+
+
+General Market/Macro
+	
+Our World in Data
+	
+Data across health, food & agriculture, energy and environment, innovation and technological change, poverty, and development, living and community wellbeing and human rights.
+
+
+General Market/Macro
+	
+Santander Trade
+	
+Analyse market trends, currency analysis, overseas business insights
+
+
+General Market/Macro
+	
+OECD Data
+	
+Agriculture, development, economy, energy, environment, finance, health, government, technology, society data.
+
+
+General Market/Macro
+	
+UN Human Development Data Centre
+	
+Demography, gender, human security, inequality, mobility, trade and employment data.
+
+
+General Market/Macro
+	
+World Population Review
+	
+Overview of populations
+
+
+General Market/Macro
+	
+Legatum Prosperity Index
+	
+Understanding safety and security, personal freedom, governance, social capital, economic quality, living conditions, health, education and national environment.
+
+
+General Market/Macro
+	
+English Proficiency Index 
+	
+ 
+
+
+General Market/Macro
+	
+Hofstede Insights
+	
+Compares countries across 6 values, Power Distance, Individualism, Masculinity, Uncertainty Avoidance, Long Term Orientation, Indulgence.
+
+
+Tariffs
+	
+Market Access Map
+	
+Customs tariffs, tariff rate quotas, trade remedies, regulatory requirements, and preferential regimes applicable to your product.
+
+
+Tariffs
+	
+MFAT Tariff Finder  
+	
+Designed to help goods exporters and importers maximise benefits from New Zealand’s Free Trade Agreements (FTAs) and compare tariffs in more than 140 other international markets
+
+
+Trade
+	
+UN Comtrade Database
+	
+Free access to detailed global trade data
+
+
+Trade
+	
+OEC
+	
+Trade data, products by country and country profiles
+
+
+Trade
+	
+ITC
+	
+Trade Map provides in the form of tables, graphs and maps indicators on export performance, international demand, alternative markets and competition.
+
+
+Agriculture
+	
+FAOSTAT
+	
+Food and Agriculture Organisation of the United Nations Data (i.e crops and livestock, climate change, population and employment, forestry, food security, and macroeconomic indicators)
+
+
+Sustainability
+	
+Sustainability Index (UN)
+	
+Assesses where each country stands with regard to achieving the Sustainable Development Goals.
+
+
+Sustainability
+	
+Environmental Performance Index
+	
+The 2020 Environmental Performance Index (EPI) provides a datadriven summary of the state of sustainability around the world. Using 32 performance indicators across 11 issue categories, the EPI ranks 180 countries on environmental health and ecosystem vitality.
+
+
+Sustainability
+	
+Minority Group Index
+	
+Ranking highlights countries most at risk of genocide and mass killings.
+
+
+Health
+	
+Global Healthcare Expenditure Data
+	
+Data on healthcare expenditure i.e current health care expenditure by age, government financing arrangements and immunizations.
+
+
+Health
+	
+World Health Organisation
+	
+Heath data across the world
+
+
+Health
+	
+Global Health Data Exchange
+	
+Comprehensive catalogue of surveys, censuses, vital statistics, and other health related data
+
+
+Business Infrastructure
+	
+Robinson Country Intelligence Index
+	
+Overview of governance, economics, operations, and society.
+
+
+Business Infrastructure
+	
+Freedom House
+	
+Freedom House rates people’s access to political rights and civil liberties in 210 countries and territories through its annual Freedom in the World report. Individual freedoms—ranging from the right to vote to freedom of expression and equality before the law—can be affected by state or nonstate actors.
+
+
+Business Infrastructure
+	
+Cisco Digital Readiness Index
+	
+Overview of basic needs, government and business investment, ease of doing business, human capital, startup environment, technology adoption and technology infrastructure.
+
+
+Business Infrastructure
+	
+Credendo Country Risk
+	
+Immediate risk assessment for any country or continent.
+
+
+Business Infrastructure
+	
+Vision of humanity  
+	
+A composite index measuring the peacefulness of countries, terrorism, ecological threats.
+
+
+Business Infrastructure
+	
+Atlas of economic complexity
+	
+Explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
+
+
+FMCG Products
+	
+Mintel
+	
+Covers 38,000 new product launches a month across 86 global markets. The platform displays images and detailed product information for launches in a wide array of categories.
+
+
+Company
+	
+Capital IQ
+	
+Deep industry data, public and private company details, supply chain intelligence, real time market prices, expert opinions and forecasts
+
+
+Construction
+	
+BCI
+	
+Building and construction industry in Australia & Pacific
+
+
+Online performance
+	
+SimilarWeb
+	
+Online traffic data to deliver an unbiased, objective view of real world web and app performance
+
+
+Consumer
+	
+Global Web Index
+	
+Insightful consumer data across 47 markets
